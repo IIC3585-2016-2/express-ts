@@ -1,0 +1,11 @@
+{
+  "name": "express-ts",
+  "version": "1.0.0",
+  "description": "Example setup of Express.js + Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Patricio López <patricio@lopezjuri.com> (https://lopezjuri.com)",
+  "license": "MIT"
+}
