@@ -1,11 +1,17 @@
 {
   "name": "express-ts",
   "globalDependencies": {
+    "mocha": "registry:env/mocha#2.2.5+20160723033700",
     "moment-node": "registry:dt/moment-node#2.11.1+20160511043338",
     "morgan": "registry:dt/morgan#1.7.0+20160524142355",
-    "node": "registry:env/node#6.0.0+20160813135048"
+    "node": "registry:env/node#6.0.0+20160813135048",
+    "superagent": "registry:dt/superagent#2.0.0+20160811085415",
+    "supertest": "registry:dt/supertest#1.1.0+20160724070541",
+    "supertest-as-promised": "registry:dt/supertest-as-promised#2.0.2+20160802164024"
   },
   "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.4.1+20160811213708",
+    "chai": "registry:npm/chai#3.5.0+20160723033700",
     "express": "registry:npm/express#4.14.0+20160815112707"
   }
 }
