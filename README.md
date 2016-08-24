@@ -1,5 +1,7 @@
 # [Express.js](http://expressjs.com/) with [Typescript](http://www.typescriptlang.org/)
 
+[![Build Status](https://travis-ci.org/mrpatiwi/express-ts.svg?branch=master)](https://travis-ci.org/mrpatiwi/express-ts) [![David](https://david-dm.org/mrpatiwi/express-ts.svg)](https://david-dm.org/mrpatiwi/express-ts)
+
 ## Setup
 
 Make sure you have Node.js 6 and `npm` installed.
